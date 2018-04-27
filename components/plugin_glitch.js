@@ -15,7 +15,7 @@ module.exports = function(controller) {
 
   }
 
-  // if this is running on Glitch
+  // if this is running on Glitch ayo
   if (process.env.PROJECT_DOMAIN) {
 
     // Register with studio using the provided domain name
@@ -27,3 +27,4 @@ module.exports = function(controller) {
 
   }
 }
+
